@@ -10,13 +10,11 @@ This repo contains the solution to the Data Engineering Challenge by Alejandro d
 
 <div align="center">
 	<br>
-	<a href="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.md">
-		<img src="https://s3.amazonaws.com/josg/insights/data-chart.gif" width="800" height="400" alt="Data science">
+	<a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">
+		<img src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
 	</a>
 	<br>
 </div>
-
-<iframe src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">via GIPHY</a></p>
 
 ## Archivos
 
