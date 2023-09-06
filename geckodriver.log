@@ -1,0 +1,452 @@
+1694019017234	geckodriver	INFO	Listening on 127.0.0.1:65360
+1694019020333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofileJDYZqG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694019020747	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694019020889	Marionette	INFO	Listening on port 65373
+Read port: 65373
+WebDriver BiDi listening on ws://127.0.0.1:65361
+1694019021574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65361/devtools/browser/4d705026-0b10-4127-b3c8-cd37fb8cb316
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 363 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
+JavaScript warning: https://www.vivanuncios.com.mx/s-departamentos-en-renta/nuevo-leon/v1c1300l1018p1, line 25: Script terminated by timeout at:
+nrWrapper@https://www.vivanuncios.com.mx/s-departamentos-en-renta/nuevo-leon/v1c1300l1018p1:25:14804
+
+1694019614352	Marionette	INFO	Stopped listening on port 65373
+Dynamically enable window occlusion 1
+rvices.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694019484839	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694019484928	Marionette	INFO	Listening on port 49317
+WebDriver BiDi listening on ws://127.0.0.1:49309
+Read port: 49317
+1694019485756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49309/devtools/browser/affaab41-22ca-4ab2-b084-5818595c492a
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 6647 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.vivanuncios.com.mx/s-departamentos-en-renta/nuevo-leon/v1c1300l1018p1, line 25: Script terminated by timeout at:
+nrWrapper@https://www.vivanuncios.com.mx/s-departamentos-en-renta/nuevo-leon/v1c1300l1018p1:25:14804
+
+1694019504284	Marionette	INFO	Stopped listening on port 49317
+Dynamically enable window occlusion 1
+1694019548703	geckodriver	INFO	Listening on 127.0.0.1:49466
+1694019551824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49467" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofile2mJ1d7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694019552147	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694019552235	Marionette	INFO	Listening on port 49475
+Read port: 49475
+WebDriver BiDi listening on ws://127.0.0.1:49467
+1694019552720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49467/devtools/browser/9751a033-6146-4cc4-ac88-642f5212c037
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 4824 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.vivanuncios.com.mx/s-departamentos-en-renta/nuevo-leon/v1c1300l1018p1, line 25: Script terminated by timeout at:
+nrWrapper@https://www.vivanuncios.com.mx/s-departamentos-en-renta/nuevo-leon/v1c1300l1018p1:25:14804
+
+1694019605689	Marionette	INFO	Stopped listening on port 49475
+Dynamically enable window occlusion 1
+1694019745264	geckodriver	INFO	Listening on 127.0.0.1:49652
+1694019748322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofileWiJDNP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694019748618	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694019748676	Marionette	INFO	Listening on port 49669
+WebDriver BiDi listening on ws://127.0.0.1:49653
+Read port: 49669
+1694019749282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49653/devtools/browser/9db6c27a-10f9-4305-a3d5-86023deb5824
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 86 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
+1694023743453	geckodriver	INFO	Listening on 127.0.0.1:51189
+1694023747883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofileW8x2oy"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694023748178	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694023748338	Marionette	INFO	Listening on port 51199
+WebDriver BiDi listening on ws://127.0.0.1:51190
+Read port: 51199
+Read port: 51199
+Read port: 51199
+1694023751420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51190/devtools/browser/d22710a1-2455-43ef-b628-7e87cc7e1a2a
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 5083 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
+1694026176650	geckodriver	INFO	Listening on 127.0.0.1:51954
+1694026179735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofileobi26c"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694026180040	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694026180098	Marionette	INFO	Listening on port 51962
+WebDriver BiDi listening on ws://127.0.0.1:51955
+Read port: 51962
+1694026181502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51955/devtools/browser/8eec74e8-f76a-44db-bfbc-884738f03189
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 5422 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
+1694028065414	geckodriver	INFO	Listening on 127.0.0.1:53380
+1694028068491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofileECQse8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694028068857	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694028068915	Marionette	INFO	Listening on port 53389
+WebDriver BiDi listening on ws://127.0.0.1:53381
+Read port: 53389
+1694028070363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53381/devtools/browser/fbdf29d5-5bee-4ae9-a29b-0f04da3d9bb8
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 3112 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
+1694029062165	geckodriver	INFO	Listening on 127.0.0.1:53733
+1694029065228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofile7D3OvU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694029065542	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694029066465	Marionette	INFO	Listening on port 53741
+WebDriver BiDi listening on ws://127.0.0.1:53734
+Read port: 53741
+1694029068046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53734/devtools/browser/c6d11db4-10ea-4cae-8070-503e6afc018a
+1694029070358	geckodriver	INFO	Listening on 127.0.0.1:53756
+1694029074627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofileKnCZt8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694029075080	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694029075140	Marionette	INFO	Listening on port 53779
+WebDriver BiDi listening on ws://127.0.0.1:53757
+Read port: 53779
+1694029075720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53757/devtools/browser/bc43caa8-83c9-42ab-8c84-c2d2f8d9d20d
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 2197 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
+1694029159437	geckodriver	INFO	Listening on 127.0.0.1:53942
+1694029162499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofileQCBPxt"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694029162802	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694029162860	Marionette	INFO	Listening on port 53950
+WebDriver BiDi listening on ws://127.0.0.1:53943
+Read port: 53950
+1694029164149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53943/devtools/browser/50f6ad66-e7be-4c5b-afea-77f62399daa5
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 1046 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
+1694029652385	geckodriver	INFO	Listening on 127.0.0.1:54162
+1694029655777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofilekwtsWo"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694029656121	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694029656180	Marionette	INFO	Listening on port 54170
+WebDriver BiDi listening on ws://127.0.0.1:54163
+Read port: 54170
+1694029657933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54163/devtools/browser/be664033-b91a-40af-a944-d5176ac4fa76
+JavaScript warning: https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1, line 25: Script terminated by timeout at:
+a@https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1:25:17436
+r@https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1:25:1732
+n@https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1:25:15880
+n@https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1:25:15821
+u@https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1:25:15267
+nrWrapper@https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1:25:14911
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=80293a586ecbe9a9, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=80293d6569f32cc6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694029827614	geckodriver	INFO	Listening on 127.0.0.1:54305
+1694029830661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofile7NvHqo"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694029831243	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694029831350	Marionette	INFO	Listening on port 54313
+WebDriver BiDi listening on ws://127.0.0.1:54306
+Read port: 54313
+Read port: 54313
+Read port: 54313
+1694029833870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54306/devtools/browser/f5b3ae6e-fdff-4493-8c66-a8d3bf7bf73d
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 1530 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1, line 25: Script terminated by timeout at:
+nrWrapper@https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1:25:14804
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=80293e695c134617, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=80293ea838fc4617, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=80293ee889bf4617, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=80293f286ede4617, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=80293f6899534617, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=80293fa868014617, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694030221117	geckodriver	INFO	Listening on 127.0.0.1:54471
+1694030224315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofilekck0wp"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694030224614	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694030224671	Marionette	INFO	Listening on port 54479
+WebDriver BiDi listening on ws://127.0.0.1:54472
+Read port: 54479
+1694030226019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54472/devtools/browser/1b31f43f-3246-40ad-ac3e-27afc96964c8
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 5767 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1, line 25: Script terminated by timeout at:
+r@https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1:25:16512
+e@https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1:25:15767
+n@https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1:25:15841
+n@https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1:25:15821
+u@https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1:25:15267
+nrWrapper@https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/v1c1098l1018p1:25:14911
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3152
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=802947fa2e0b4798, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=802948391ccc4798, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=80294878bb884798, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=802948b8ad414798, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694030323699	geckodriver	INFO	Listening on 127.0.0.1:54636
+1694030326778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofiletqwQRV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694030327080	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694030327137	Marionette	INFO	Listening on port 54644
+WebDriver BiDi listening on ws://127.0.0.1:54637
+Read port: 54644
+1694030327548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54637/devtools/browser/44299c96-8148-4f20-841b-7259bcf3ae6a
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 5129 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
+1694030549345	geckodriver	INFO	Listening on 127.0.0.1:54805
+1694030552398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofileSZxpVv"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694030552741	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694030552803	Marionette	INFO	Listening on port 54813
+WebDriver BiDi listening on ws://127.0.0.1:54806
+Read port: 54813
+1694030554211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54806/devtools/browser/7d14984a-92aa-4718-af8d-b5634b7ab5f1
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 1376 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
+1694030622806	geckodriver	INFO	Listening on 127.0.0.1:54959
+1694030625994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofile5N8K2H"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694030626547	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694030626605	Marionette	INFO	Listening on port 54967
+WebDriver BiDi listening on ws://127.0.0.1:54960
+Read port: 54967
+1694030627386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54960/devtools/browser/1dd1eb0f-7be3-4b5e-b815-9932365b0e1f
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 2601 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/page-2/v1c1098l1018p2, line 25: Script terminated by timeout at:
+nrWrapper@https://www.vivanuncios.com.mx/s-renta-inmuebles/nuevo-leon/page-2/v1c1098l1018p2:25:14804
+
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=802952255ed23066, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694030742485	geckodriver	INFO	Listening on 127.0.0.1:55122
+1694030745557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofile4vSvig"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694030745863	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694030745921	Marionette	INFO	Listening on port 55130
+Read port: 55130
+WebDriver BiDi listening on ws://127.0.0.1:55123
+1694030746311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55123/devtools/browser/6cf68ecd-4334-4c1d-9ebb-e56353b59d8f
+1694030771924	geckodriver	INFO	Listening on 127.0.0.1:55160
+1694030872071	geckodriver	INFO	Listening on 127.0.0.1:55426
+1694030875150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\eherr\\AppData\\Local\\Temp\\rust_mozprofilezvUON3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694030875446	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-window-size"
+1694030875503	Marionette	INFO	Listening on port 55434
+WebDriver BiDi listening on ws://127.0.0.1:55427
+Read port: 55434
+1694030876566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55427/devtools/browser/1df59e01-2e4c-4178-8f8c-d019d073ff78
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 2371 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 1529 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 803 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22versionRead port: 55851
+Read port: 55851
+Read port: 55851
+Read port: 55851
+1694030988236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55834/devtools/browser/555c6726-461d-4b88-a9e5-b1d196cb368a
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 4830 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%2console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 757))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55983/devtools/browser/3251a775-9717-46f7-bf0c-ca7f3a8ac7ae
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 7261 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%2console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 757))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56151/devtools/browser/be0c8b98-8f2a-45d2-a2b5-f8864ebd8361
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1694031125490	geckodriver	INFO	Listening on 127.0.0.1:56288
+1694031128823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--window-size=1920,1200" "--re ... 9" "--remote-allow-hosts" "localhost" "-no-JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%2console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 757))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56289/devtools/browser/4aac40ad-6a0e-4e13-b3fa-c91b0c5b5515
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO31694031179755	geckodriver	INFO	Listening on 127.0.0.1:56411
+1694031182816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionetJavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%221694031190189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 757))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+DevTools listening on ws://127.0.0.1:56412/devtools/browser/5c031fe8-b592-4ec6-aa73-389131a46b31
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+JavaScript error: , line 0: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 6111 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}, line 14: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3137
+r/<@https://gum.criteo.com/syncframe?topUrl=www.vivanuncios.com.mx&origin=onetag#{%22bundle%22:{%22origin%22:0,%22value%22:null},%22cw%22:true,%22optout%22:{%22origin%22:0,%22value%22:null},%22origin%22:%22onetag%22,%22sid%22:{%22origin%22:0,%22value%22:null},%22tld%22:%22vivanuncios.com.mx%22,%22topUrl%22:%22www.vivanuncios.com.mx%22,%22version%22:%225_17_0%22,%22ifa%22:{%22origin%22:0,%22value%22:null},%22lsw%22:true,%22pm%22:0}:14:3642
+
